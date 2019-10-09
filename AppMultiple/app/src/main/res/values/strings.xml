@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppMultiple</string>
+    <string name="informacion">Información</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="acerca_de">Acerca de ...</string>
+    <string name="salir">Salir</string>
+</resources>
